@@ -251,3 +251,8 @@ Eu fiz algumas pesquisas e tive muita dificuldade em achar algum ambiente que o 
     xpack.fleet.agents.elasticsearch.hosts: ["http://elasticsearch:9200"]
     xpack.fleet.agents.fleet_server.hosts: ["http://fleet-server:8220"]
    ```
+   
+   Authors:
+  - [Guilherme da Silveira Souza](https://github.com/Guilherme-Silveira)
+ 
+---
